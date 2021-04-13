@@ -1,0 +1,6 @@
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\BasicSynatx\BasicSynatx\bin\Debug\BasicSynatx.exe.config
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\BasicSynatx\BasicSynatx\bin\Debug\BasicSynatx.exe
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\BasicSynatx\BasicSynatx\bin\Debug\BasicSynatx.pdb
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\BasicSynatx\BasicSynatx\obj\Debug\BasicSynatx.csprojResolveAssemblyReference.cache
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\BasicSynatx\BasicSynatx\obj\Debug\BasicSynatx.exe
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\BasicSynatx\BasicSynatx\obj\Debug\BasicSynatx.pdb

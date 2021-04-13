@@ -1,0 +1,6 @@
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Data_Processing\Data_Processing\bin\Debug\Data_Processing.exe.config
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Data_Processing\Data_Processing\bin\Debug\Data_Processing.exe
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Data_Processing\Data_Processing\bin\Debug\Data_Processing.pdb
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Data_Processing\Data_Processing\obj\Debug\Data_Processing.exe
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Data_Processing\Data_Processing\obj\Debug\Data_Processing.pdb
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Data_Processing\Data_Processing\obj\Debug\Data_Processing.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Variable1\Variable1\bin\Debug\Variable1.exe.config
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Variable1\Variable1\bin\Debug\Variable1.exe
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Variable1\Variable1\bin\Debug\Variable1.pdb
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Variable1\Variable1\obj\Debug\Variable1.exe
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Variable1\Variable1\obj\Debug\Variable1.pdb
+C:\Users\2017-1-60-084\Desktop\C# Tutorial\Variable1\Variable1\obj\Debug\Variable1.csprojResolveAssemblyReference.cache
